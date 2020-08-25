@@ -1,6 +1,6 @@
 ---
-title:  "AWS setup"
-subtitle: "Enjoy AWS free tear setup"
+title:  "Visual Designer @ Mercering"
+subtitle: "Website design"
 author: "eddytools"
 avatar: "img/authors/eddytools.png"
 image: "img/f.jpg"
