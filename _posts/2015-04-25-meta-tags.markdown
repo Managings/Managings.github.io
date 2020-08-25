@@ -1,6 +1,6 @@
 ---
 title:  "Content Creator @ Amazon"
-subtitle: "SEO metatags"
+subtitle: "Work Experience"
 author: "Ashish"
 avatar: "img/authors/eddytools.png"
 image: "img/e.jpg"
