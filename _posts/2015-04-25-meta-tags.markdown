@@ -1,5 +1,5 @@
 ---
-title:  "Meta Tag Generator"
+title:  "Content Creator @ Amazon"
 subtitle: "SEO metatags"
 author: "Ashish"
 avatar: "img/authors/eddytools.png"
